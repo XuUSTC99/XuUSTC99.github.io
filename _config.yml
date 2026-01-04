@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Junjie Xu's Academic Portfolio"  # Update this with the title of your site
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Junjie Xu"                     # Update this with your name
+description              : &description "Junjie Xu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://xuustc99.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Junjie Xu"  # Update this with your name
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "interested in LLM, multi-agent."  # Update this with a short bio
+  location         : "Shenzhen, China"  # Update this with your location
+  employer         : "ASML"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xuuu@mail.ustc.edu.cn" 
 
   # Academic websites
   academia         : # URL
